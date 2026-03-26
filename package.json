@@ -1,23 +1,22 @@
 {
     "name": "@zebuild/baileys-pro",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By zebuild",
+    "description": "WhatsApp API Modification By Z",
     "keywords": [
         "whatsapp",
-        "laurine-wabot",
+        "zebuild-wabot",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
         "whatsapp-group",
-        "botwa",
-        "stvnnvs"
+        "botwa"
     ],
     "homepage": "https://github.com/zebuildV10/bails",
     "repository": {
         "url": "https://github.com/zebuildV10/bails"
     },
     "license": "MIT",
-    "author": "zebuild",
+    "author": "Adhiraj Singh",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -52,7 +51,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:@asytzy-dev/libsignal-node",
+        "libsignal": "git+https://github.com/whiskeysockets/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -108,3 +107,5 @@
         "node": ">=20.0.0"
     }
 }
+
+    
