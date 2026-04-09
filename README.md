@@ -1,5 +1,8 @@
-<h1> Whatsapp Baileys </h1>
-<span style="color:red;">Merah</span>
+<h1> Whatsapp Baileys 
+<ul>
+  <li>Satu</li>
+  <li>Dua</li>
+</ul>
 <p align="center">
   <img src="https://files.catbox.moe/qm3nuu.jpg" alt="Thumbnail" />
 </p>
