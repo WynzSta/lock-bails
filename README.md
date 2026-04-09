@@ -1,8 +1,5 @@
 <h1> Whatsapp Baileys 
-<ul>
-  <li>Satu</li>
-  <li>Dua</li>
-</ul>
+<input type="text" placeholder="Ketik disini">
 <p align="center">
   <img src="https://files.catbox.moe/qm3nuu.jpg" alt="Thumbnail" />
 </p>
