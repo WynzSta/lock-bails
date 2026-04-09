@@ -1,5 +1,5 @@
 <h1> Whatsapp Baileys 
-<input type="text" placeholder="Ketik disini">
+<button> Hallo Peler
 <p align="center">
   <img src="https://files.catbox.moe/qm3nuu.jpg" alt="Thumbnail" />
 </p>
